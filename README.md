@@ -7,5 +7,7 @@ linux android portable busybox griggorii
 
 Приготовил bzImage https://github.com/Griggorii/linux-kernel-5.0.1-deb-Griggorii-compilation
 
+Example busybox kernel OS9.0 && busybox ls -l /
+
 Естественно я два года работал над UI бесплатно кастомизируя его в xfce что плавно перешло в другие оболочки и щас 
 под лицензией MIT мне надо отбить время в деньгах , потом когда система станет легче её даже захотят купить это 70%
