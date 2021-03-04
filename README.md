@@ -3,7 +3,7 @@ linux android portable busybox griggorii
 
 New my dump busybox-1.30.1 + new config
 
-Example busybox kernel OS9.0 
+/busybox-1.30.1/_install
 
 && busybox ls -l /
 
