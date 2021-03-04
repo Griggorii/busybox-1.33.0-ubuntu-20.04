@@ -3,11 +3,11 @@ linux android portable busybox griggorii
 
 New my dump busybox-1.30.1 + new config
 
-ubuntu 20.04 install command:
+ubuntu 20.04 sudo and alternative root install busybox command:
 
 $$ sudo tar xvpf busybox_ubuntu_20.04_griggorii_pro_maintener.tar.xz.xz -C /
 
-ubuntu 20.04 install + add new functions programm busybox
+ubuntu 20.04 sudo and alternative root install + add new functions programm busybox command:
 
 $$ sudo tar xvpf add_dll_busybox_ubuntu_20.04_griggorii_pro_maintener.tar.xz -C /
 
