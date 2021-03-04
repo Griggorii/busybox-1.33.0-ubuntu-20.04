@@ -3,7 +3,7 @@ linux android portable busybox griggorii
 
 New my dump busybox-1.30.1 + new config
 
-/busybox-1.30.1/_install
+all binare ubuntu 20.04 /busybox-1.30.1/_install not version 20.04 rebuild make -j2
 
 && busybox ls -l /
 
