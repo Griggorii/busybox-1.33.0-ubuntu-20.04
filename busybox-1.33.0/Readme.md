@@ -1,4 +1,4 @@
-Griggorii work test new busybox new minimum size ubuntu 20.04
+Griggorii work test new busybox new minimum size ubuntu 20.04 10.03.2021
 
 sudo tar xvpf busybox-1.33.0.tar.xz -C /
 
