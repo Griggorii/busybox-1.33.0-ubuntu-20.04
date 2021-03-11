@@ -1,0 +1,3 @@
+XZ_OPT=-9 tar -Jcvf busybox-1.33.0-base32-add.tar.xz '/bin/base32' '/usr/bin/[' '/usr/bin/ar' '/usr/bin/lzopcat' '/usr/bin/ts' '/usr/bin/unlzop' '/usr/sbin/i2ctransfer' '/usr/sbin/mim'
+
+rm -rf '/bin/base32' '/usr/bin/[' '/usr/bin/ar' '/usr/bin/lzopcat' '/usr/bin/ts' '/usr/bin/unlzop' '/usr/sbin/i2ctransfer' '/usr/sbin/mim'
