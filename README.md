@@ -1,19 +1,17 @@
 # busybox_portable
 linux android portable busybox griggorii
 
-New my dump busybox-1.30.1 + new config
+New my dump busybox-1.33.0 + new config
 
-New update busybox-1.33.0 Readme install
+Griggorii work test new busybox new minimum size ubuntu 20.04
 
-Old busybox
+sudo tar xvpf busybox-1.33.0.tar.xz -C /
 
-ubuntu 20.04 sudo and alternative root install busybox command:
+add base32 + new functions
 
-$$ sudo tar xvpf busybox_ubuntu_20.04_griggorii_pro_maintener.tar.xz.xz -C /
+sudo tar xvpf busybox-1.33.0-base32-add.tar.xz -C /
 
-ubuntu 20.04 sudo and alternative root install + add new functions programm busybox command:
-
-$$ sudo tar xvpf add_dll_busybox_ubuntu_20.04_griggorii_pro_maintener.tar.xz -C /
+sudo tar busybox-1.33.0_full_add_library_functions.tar.xz -C /
 
 && busybox ls -l /
 
