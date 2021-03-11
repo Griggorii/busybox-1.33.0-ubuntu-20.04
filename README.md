@@ -1,4 +1,4 @@
-# busybox_portable new readelf->x86_64-linux-gnu-readelf=btrfs
+# busybox_portable new readelf->x86_64-linux-gnu-readelf=btrfs initramfs support
 linux android portable busybox griggorii
 
 New my dump busybox-1.33.0 + new config
