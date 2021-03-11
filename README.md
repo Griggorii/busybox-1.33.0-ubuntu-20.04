@@ -25,7 +25,7 @@ add base32 + new functions
 Естественно я два года работал над UI бесплатно кастомизируя его в xfce что плавно перешло в другие оболочки и щас 
 под лицензией MIT мне надо отбить время в деньгах , потом когда система станет легче её даже захотят купить это 70%
 
-Uninstall easy
+Uninstall easy full my dock https://github.com/Griggorii/busybox-1.33.0-ubuntu-20.04/tree/master/Griggorii%20development
 
 Delete uninstall new functions add_dll_busybox_ubuntu_20.04_griggorii_pro_maintener
 
