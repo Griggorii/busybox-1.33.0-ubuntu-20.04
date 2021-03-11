@@ -1,4 +1,4 @@
-# busybox_portable
+# busybox_portable new hreadelf->x86_64-linux-gnu-readelf=btrfs
 linux android portable busybox griggorii
 
 New my dump busybox-1.33.0 + new config
