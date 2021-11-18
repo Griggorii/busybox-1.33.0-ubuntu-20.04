@@ -1,6 +1,14 @@
 # busybox_portable new readelf->x86_64-linux-gnu-readelf=btrfs initramfs support
 linux android portable busybox griggorii
 
+
+ Deb package install Ubuntu 20.04.2 LTS https://github.com/Griggorii/busybox-1.33.0-ubuntu-20.04/releases/tag/ubuntu_20.04
+
+
+__________________________________________________________________________________________________________________________________________________
+
+                                            Not recomendation working development install deb version
+
 New my dump busybox-1.33.0 + new config
 
 Griggorii work test new busybox new minimum size ubuntu 20.04
