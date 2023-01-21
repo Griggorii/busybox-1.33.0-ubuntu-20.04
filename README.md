@@ -2,7 +2,7 @@
 linux android portable busybox griggorii
 
 
- Deb package install Ubuntu 20.04.2 LTS https://github.com/Griggorii/busybox-1.33.0-ubuntu-20.04/releases/tag/ubuntu_20.04
+ Deb package rebuild 2023 install Ubuntu 20.04.2 LTS https://github.com/Griggorii/busybox-1.33.0-ubuntu-20.04/releases/tag/ubuntu_20.04
 
 
 __________________________________________________________________________________________________________________________________________________
